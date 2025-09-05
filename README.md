@@ -3,58 +3,31 @@ cat << 'EOF' > README.md
 
 Savvio adalah aplikasi **Expense Tracker** sederhana yang membantu kamu mencatat pengeluaran harian, memantau tabungan, dan mengatur anggaran agar lebih terkontrol. Dibangun dengan **React** + **Vite**, aplikasi ini ringan, cepat, dan mudah digunakan.
 
----
-
 ## ✨ Fitur
-
-- 📝 Mencatat pengeluaran harian dengan mudah
+- 📝 Mencatat pengeluaran harian
 - 📊 Menampilkan total pengeluaran dan sisa anggaran
-- 💵 Memantau tabungan berdasarkan pengeluaran
-- 🖥️ Tampilan minimalis dan responsif
-- ⚡ Hot Module Replacement (HMR) untuk pengembangan cepat
-- ✅ Integrasi ESLint untuk menjaga kualitas kode
-
----
+- 💵 Memantau tabungan
+- 🖥️ Tampilan minimalis
+- ⚡ Hot Module Replacement (HMR)
+- ✅ Integrasi ESLint
 
 ## 🛠️ Persyaratan
-
 - Node.js versi 16 atau lebih baru
 - NPM atau Yarn
 
----
-
 ## 🚀 Instalasi
-
 1. Clone repositori:
-
-\`\`\`bash
-git clone https://github.com/Peter-sour/Savvio.git
-cd Savvio
-\`\`\`
-
+   git clone https://github.com/Peter-sour/Savvio.git
+   cd Savvio
 2. Instal dependensi:
-
-\`\`\`bash
-npm install
-\`\`\`
-
----
+   npm install
 
 ## 🏃‍♂️ Penggunaan
-
-Jalankan aplikasi dalam mode pengembangan:
-
-\`\`\`bash
+Jalankan aplikasi:
 npm run dev
-\`\`\`
-
-Buka aplikasi di browser: [http://localhost:5173](http://localhost:5173)
-
----
+Buka browser di: http://localhost:5173
 
 ## 📁 Struktur Proyek
-
-\`\`\`
 Savvio/
 ├── android/                 # Konfigurasi Android (opsional)
 ├── public/                  # File statis
@@ -66,24 +39,13 @@ Savvio/
 ├── package-lock.json        # Lock dependensi
 ├── package.json             # Informasi proyek & dependensi
 └── vite.config.js           # Konfigurasi Vite
-\`\`\`
-
----
 
 ## 🤝 Kontribusi
-
-Jika ingin berkontribusi:
-
-1. Fork repositori
-2. Buat cabang baru: \`git checkout -b fitur-anda\`
-3. Lakukan perubahan
+1. Fork repositori  
+2. Buat cabang baru: `git checkout -b fitur-anda`  
+3. Lakukan perubahan  
 4. Kirim pull request
 
----
-
 ## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
----
+MIT License
 EOF
