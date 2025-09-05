@@ -7,19 +7,19 @@ Savvio adalah aplikasi **Expense Tracker** sederhana yang membantu kamu mencatat
 
 ## ✨ Fitur
 
-- 📝 Mencatat pengeluaran harian dengan mudah  
-- 📊 Menampilkan total pengeluaran dan sisa anggaran  
-- 💵 Memantau tabungan berdasarkan pengeluaran  
-- 🖥️ Tampilan minimalis dan responsif  
-- ⚡ Hot Module Replacement (HMR) untuk pengembangan cepat  
-- ✅ Integrasi ESLint untuk menjaga kualitas kode  
+- 📝 Mencatat pengeluaran harian dengan mudah
+- 📊 Menampilkan total pengeluaran dan sisa anggaran
+- 💵 Memantau tabungan berdasarkan pengeluaran
+- 🖥️ Tampilan minimalis dan responsif
+- ⚡ Hot Module Replacement (HMR) untuk pengembangan cepat
+- ✅ Integrasi ESLint untuk menjaga kualitas kode
 
 ---
 
 ## 🛠️ Persyaratan
 
-- Node.js versi 16 atau lebih baru  
-- NPM atau Yarn  
+- Node.js versi 16 atau lebih baru
+- NPM atau Yarn
 
 ---
 
@@ -74,10 +74,10 @@ Savvio/
 
 Jika ingin berkontribusi:
 
-1. Fork repositori  
-2. Buat cabang baru: \`git checkout -b fitur-anda\`  
-3. Lakukan perubahan  
-4. Kirim pull request  
+1. Fork repositori
+2. Buat cabang baru: \`git checkout -b fitur-anda\`
+3. Lakukan perubahan
+4. Kirim pull request
 
 ---
 
