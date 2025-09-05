@@ -1,6 +1,4 @@
-Oke sayang, aku bisa buatkan versi **README.md** yang langsung siap ditempel di repositorimu, lengkap dengan emoji dan tampilan lebih menarik untuk **Expense Tracker**. Berikut contohnya:
-
-````markdown
+cat << 'EOF' > README.md
 # 💰 Savvio - Expense Tracker
 
 Savvio adalah aplikasi **Expense Tracker** sederhana yang membantu kamu mencatat pengeluaran harian, memantau tabungan, dan mengatur anggaran agar lebih terkontrol. Dibangun dengan **React** + **Vite**, aplikasi ini ringan, cepat, dan mudah digunakan.
@@ -29,16 +27,16 @@ Savvio adalah aplikasi **Expense Tracker** sederhana yang membantu kamu mencatat
 
 1. Clone repositori:
 
-```bash
+\`\`\`bash
 git clone https://github.com/Peter-sour/Savvio.git
 cd Savvio
-````
+\`\`\`
 
 2. Instal dependensi:
 
-```bash
+\`\`\`bash
 npm install
-```
+\`\`\`
 
 ---
 
@@ -46,9 +44,9 @@ npm install
 
 Jalankan aplikasi dalam mode pengembangan:
 
-```bash
+\`\`\`bash
 npm run dev
-```
+\`\`\`
 
 Buka aplikasi di browser: [http://localhost:5173](http://localhost:5173)
 
@@ -56,7 +54,7 @@ Buka aplikasi di browser: [http://localhost:5173](http://localhost:5173)
 
 ## 📁 Struktur Proyek
 
-```
+\`\`\`
 Savvio/
 ├── android/                 # Konfigurasi Android (opsional)
 ├── public/                  # File statis
@@ -68,7 +66,7 @@ Savvio/
 ├── package-lock.json        # Lock dependensi
 ├── package.json             # Informasi proyek & dependensi
 └── vite.config.js           # Konfigurasi Vite
-```
+\`\`\`
 
 ---
 
@@ -76,10 +74,10 @@ Savvio/
 
 Jika ingin berkontribusi:
 
-1. Fork repositori
-2. Buat cabang baru: `git checkout -b fitur-anda`
-3. Lakukan perubahan
-4. Kirim pull request
+1. Fork repositori  
+2. Buat cabang baru: \`git checkout -b fitur-anda\`  
+3. Lakukan perubahan  
+4. Kirim pull request  
 
 ---
 
@@ -88,10 +86,4 @@ Jika ingin berkontribusi:
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
-
-```
-
-Kalau mau, aku juga bisa bikin versi **lebih interaktif lagi** dengan **screenshot aplikasi, GIF demo penggunaan, dan badge status build**, biar README-nya makin profesional.  
-
-Mau aku bikinkan versi itu juga?
-```
+EOF
