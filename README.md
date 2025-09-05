@@ -1,12 +1,97 @@
-# React + Vite
+Oke sayang, aku bisa buatkan versi **README.md** yang langsung siap ditempel di repositorimu, lengkap dengan emoji dan tampilan lebih menarik untuk **Expense Tracker**. Berikut contohnya:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+````markdown
+# 💰 Savvio - Expense Tracker
 
-Currently, two official plugins are available:
+Savvio adalah aplikasi **Expense Tracker** sederhana yang membantu kamu mencatat pengeluaran harian, memantau tabungan, dan mengatur anggaran agar lebih terkontrol. Dibangun dengan **React** + **Vite**, aplikasi ini ringan, cepat, dan mudah digunakan.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Fitur
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📝 Mencatat pengeluaran harian dengan mudah  
+- 📊 Menampilkan total pengeluaran dan sisa anggaran  
+- 💵 Memantau tabungan berdasarkan pengeluaran  
+- 🖥️ Tampilan minimalis dan responsif  
+- ⚡ Hot Module Replacement (HMR) untuk pengembangan cepat  
+- ✅ Integrasi ESLint untuk menjaga kualitas kode  
+
+---
+
+## 🛠️ Persyaratan
+
+- Node.js versi 16 atau lebih baru  
+- NPM atau Yarn  
+
+---
+
+## 🚀 Instalasi
+
+1. Clone repositori:
+
+```bash
+git clone https://github.com/Peter-sour/Savvio.git
+cd Savvio
+````
+
+2. Instal dependensi:
+
+```bash
+npm install
+```
+
+---
+
+## 🏃‍♂️ Penggunaan
+
+Jalankan aplikasi dalam mode pengembangan:
+
+```bash
+npm run dev
+```
+
+Buka aplikasi di browser: [http://localhost:5173](http://localhost:5173)
+
+---
+
+## 📁 Struktur Proyek
+
+```
+Savvio/
+├── android/                 # Konfigurasi Android (opsional)
+├── public/                  # File statis
+├── src/                     # Kode sumber aplikasi
+├── .gitignore               # File yang diabaikan Git
+├── capacitor.config.json    # Konfigurasi Capacitor
+├── eslint.config.js         # Aturan linting
+├── index.html               # File HTML utama
+├── package-lock.json        # Lock dependensi
+├── package.json             # Informasi proyek & dependensi
+└── vite.config.js           # Konfigurasi Vite
+```
+
+---
+
+## 🤝 Kontribusi
+
+Jika ingin berkontribusi:
+
+1. Fork repositori
+2. Buat cabang baru: `git checkout -b fitur-anda`
+3. Lakukan perubahan
+4. Kirim pull request
+
+---
+
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
+---
+
+```
+
+Kalau mau, aku juga bisa bikin versi **lebih interaktif lagi** dengan **screenshot aplikasi, GIF demo penggunaan, dan badge status build**, biar README-nya makin profesional.  
+
+Mau aku bikinkan versi itu juga?
+```
