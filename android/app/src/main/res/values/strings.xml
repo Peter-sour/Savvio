@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Savvio</string>
+    <string name="title_activity_main">Savvio</string>
+    <string name="package_name">com.malakul.savvio</string>
+    <string name="custom_url_scheme">com.malakul.savvio</string>
+</resources>
