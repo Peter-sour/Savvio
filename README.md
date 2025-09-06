@@ -1,7 +1,7 @@
 # 💰 Savvio - Expense Tracker
 <div align="center">
 
-![Last Commit](https://img.shields.io/github/last-commit/username/repository-name?style=flat-square&color=blue&label=last%20commit)
+![Last Commit](https://img.shields.io/github/last-commit/Peter-sour/Savvio?style=flat-square&color=blue&label=last%20commit)
 ![JavaScript](https://img.shields.io/badge/javascript-90.7%25-yellow?style=flat-square&logo=javascript)
 ![Languages](https://img.shields.io/github/languages/count/Peter-sour/Savvio?style=flat-square&color=brightgreen&label=languages)
 
